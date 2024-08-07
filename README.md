@@ -1,7 +1,12 @@
 # Hola mi nombre es Lucas Barrasa👋
 
-### Soy Técnico Superior en Desarrollo de Software con pasión por el desarrollo mobile en Kotlin. 
+### Soy Técnico Superior en Desarrollo de Software 
 
+Me especializo en:
+  - Desarrollo mobile android. 
+  - Android Studio
+  - Kotlin
+    
 ## ¿Qué me impulsa? 💪
 Mi fascinación por la tecnología y la creación de apps móviles que impacten positivamente en la vida de las personas. 
 En este momento me encuentro desarrollando de una App en Kotlin que espero logre ayudar a muchas personas.
