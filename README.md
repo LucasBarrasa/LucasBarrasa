@@ -1,6 +1,6 @@
 # Hola mi nombre es Lucas Barrasa👋
 
-### Soy Técnico Superior en Desarrollo de Software 
+### Soy Desarrollo de Software Mobile
 
 Me especializo en:
   - Desarrollo mobile android. 
