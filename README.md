@@ -24,19 +24,27 @@ Aquí están las tecnologías y herramientas con las que tengo experiencia sóli
     * `Kotlin` `Android Studio` `Git` `GitHub`
 
 * **Android Framework & UI:**
-    * `Jetpack Compose` `Views (XML)` `Navigation Component` `WorkManager` `LiveData`
+    * `Jetpack Compose` `Views (XML)` `Navigation Component` `WorkManager` `LiveData` `TTS` 
 
 * **Arquitectura y Patrones:**
-    * `MVVM` `Clean Architecture` `MVP` `MVC`
+    * `Clean Architecture` `MVVM` `MVP` `MVC` `Modularizacion`
 
 * **Asincronía:**
-    * `Coroutines` `Flow`
+    * `Coroutines` `Flow` `LiveData` 
 
 * **Persistencia de Datos y Networking:**
     * `Room` `DataStore` `SQLite`
     * `Retrofit` `OkHttp` `Gson`
 
 * **Librerías Adicionales:**
-    * `Dagger/Hilt` `Glide` `Coil` `Firebase` `Crashlytics`
+    * `Dagger/Hilt`
+    * `Glide` `Coil`
+    * `Firebase` `Crashlytics` `Analitycs` `Auth` `FireStore`
+    * `ProGuard y R8`
 
 ---
+
+### 🤝 Conectemos
+
+* **LinkedIn:** [linkedin.com/in/lucas-barrasa-dev/](https://linkedin.com/in/lucas-barrasa-dev/)
+* **Email:** [lucasbarrasa.dev@gmail.com](mailto:lucasbarrasa.dev@gmail.com)
