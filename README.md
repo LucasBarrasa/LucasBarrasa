@@ -1,23 +1,42 @@
-# Hola, Soy Lucas Barrasa👋
+# Hola, soy Lucas Barrasa 👋
 
-### Soy Desarrollo de Software Mobile
+### Desarrollador de Software especializado en Android con Kotlin
 
-Me especializo en:
-  - Desarrollo mobile android. 
-  - Android Studio
-  - Kotlin
-    
-## ¿Qué me impulsa? 💪
-Mi fascinación por la tecnología y la creación de apps móviles que impacten positivamente en la vida de las personas. 
-En este momento me encuentro desarrollando de una App en Kotlin que espero logre ayudar a muchas personas.
+Soy un desarrollador con experiencia en el ciclo de vida completo de desarrollo de aplicaciones móviles, desde el análisis de requerimientos hasta su publicación. Me apasiona la creación de soluciones tecnológicas que impactan positivamente en la vida de las personas.
 
-## ¿Qué me hace diferente? 🌟
-Soy apasionado por el aprendizaje continuo y la resolución de problemas.
-Me considero un jugador de equipo organizado, proactivo y con excelentes habilidades de comunicación. 
+Actualmente busco un rol desafiante donde pueda aplicar y expandir mis habilidades para contribuir al desarrollo de apps innovadoras y de alta calidad.
 
-## ¿Cómo logro crear soluciones? 📚
-Tengo una base sólida en desarrollo de software gracias a mi formación academica. Además, soy autodidacta y constantemente busco nuevos desafíos y proyectos para seguir aprendiendo.
+---
 
-En resumen, me gusta mejorar dia a dia mis habilidades tecnicas y blandas para superarme y lograr destacar en este campo. 
-Estoy listo para enfrentar nuevos desafíos y contribuir al desarrollo de apps móviles innovadoras. 
-¡Vamos a crear algo increíble! ✨🚀
+### 🚀 Mi Proyecto Principal: Exprésate
+
+Estoy enfocado en el desarrollo de **[Exprésate](https://github.com/LucasBarrasa/Expresate)**, una plataforma de comunicación aumentativa y alternativa (SAAC) que busca derribar las barreras de comunicación para personas con discapacidades del habla.
+
+Este proyecto, desarrollado íntegramente por mí, abarca el ciclo de desarrollo completo y fue **adoptado por el Municipio de Dolores** para su implementación. ¡Te invito a conocer más sobre la arquitectura y funcionalidades en el repositorio!
+
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+Aquí están las tecnologías y herramientas con las que tengo experiencia sólida:
+
+* **Lenguajes y Herramientas:**
+    * `Kotlin` `Android Studio` `Git` `GitHub`
+
+* **Android Framework & UI:**
+    * `Jetpack Compose` `Views (XML)` `Navigation Component` `WorkManager` `LiveData`
+
+* **Arquitectura y Patrones:**
+    * `MVVM` `Clean Architecture` `MVP` `MVC`
+
+* **Asincronía:**
+    * `Coroutines` `Flow`
+
+* **Persistencia de Datos y Networking:**
+    * `Room` `DataStore` `SQLite`
+    * `Retrofit` `OkHttp` `Gson`
+
+* **Librerías Adicionales:**
+    * `Dagger/Hilt` `Glide` `Coil` `Firebase` `Crashlytics`
+
+---
