@@ -25,43 +25,29 @@ Aquí están las tecnologías y herramientas con las que tengo experiencia sóli
 * **IDE:** `Android Studio`
 * **Control de Versiones:** `Git`, `GitHub`
 
-***
-
 ### **Android Framework & UI**
 * **UI:** `Jetpack Compose`, `Views (XML)`
 * **Componentes de Jetpack:** `Navigation Component`, `WorkManager`, `LiveData`
 * **APIs Nativas:** `TTS (Text-to-Speech)`
 
-***
-
 ### **Arquitectura y Patrones**
 * **Arquitecturas:** `Clean Architecture`, `MVVM`, `MVI`, `MVP`, `MVC`
 * **Principios:** `Modularización`
 
-***
-
 ### **Asincronía**
 * `Coroutines`, `Flow`
-
-***
 
 ### **Persistencia de Datos y Networking**
 * **Bases de Datos Locales:** `Room`, `DataStore`, `SQLite`
 * **Consumo de APIs:** `Retrofit`, `OkHttp`, `Gson`
-
-***
 
 ### **Librerías Adicionales**
 * **Inyección de Dependencias:** `Dagger/Hilt`
 * **Imágenes:** `Glide`, `Coil`
 * **Servicios de Google:** `Firebase (Crashlytics, Analytics, Auth, Firestore)`
 
-***
-
 ### **Testing**
 * `Junit`, `Mockito`
-
-***
 
 ### **Seguridad y Optimización**
 * `ProGuard`, `R8`
