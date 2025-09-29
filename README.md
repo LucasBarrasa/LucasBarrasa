@@ -31,8 +31,10 @@ Aquí están las tecnologías y herramientas con las que tengo experiencia sóli
 * **APIs Nativas:** `TTS (Text-to-Speech)`
 
 ### **Arquitectura y Patrones**
-* **Arquitecturas:** `Clean Architecture`, `MVVM`, `MVI`, `MVP`, `MVC`
-* **Principios:** `Modularización`
+* **Arquitectura de Software:** `Clean Architecture`
+* **Patrones de Presentación (UI):** `MVVM`, `MVI`, `MVP`, `MVC`
+* **Principios de Diseño:** `SOLID`
+* **Estrategias de Diseño:** `Modularización`
 
 ### **Asincronía**
 * `Coroutines`, `Flow`
